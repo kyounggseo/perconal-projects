@@ -1,4 +1,3 @@
-# datascience_final
 :book: This is soace where I record my perconal projects <br/>
 제 개인적인 프로젝트를 기록하기 위한 공간입니다.
 
