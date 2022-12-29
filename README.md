@@ -14,6 +14,6 @@ Jupyter notebook
 Project Overview : Analysis of the Flowing Population by Subway Station in Seoul and Visualized in real map. <br/>
 프로젝트 개요 : 서울시의 지하철 역 별 유동인구 분석, 지도 시각화
 
-:round_pushpin: result 결과
+:round_pushpin: result
 :one: 다음과 같이 서울시 승차 인원이 많은 지역을 알 수 있다.
 ![image](https://user-images.githubusercontent.com/102573192/209819450-26b5c734-3dc3-4bc4-ba0b-ea2a29b33515.png)
