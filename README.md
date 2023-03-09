@@ -34,3 +34,7 @@ Project Overview : Analysis of the Flowing Population by Subway Station in Seoul
 <br/>
 :four: 특정 호선의 혼잡 정도를 지도에 출력<br/>
 ![image](https://user-images.githubusercontent.com/102573192/209819450-26b5c734-3dc3-4bc4-ba0b-ea2a29b33515.png)<br/>
+
+:five: 연도별/시간대별 승객 
+![image](https://user-images.githubusercontent.com/102573192/223921977-f35476c7-9c0b-434d-861b-956cdedcd657.png)
+2020년도부터 출근시간대인 오전 6시~오전9시까지 2020년도 전과는 다르게 승객 수가 줄어든 것을 알 수 있다. 이는 2020년도에 확산된 코로나 19의 영향으로 재택근무의 비율이 많았다는 것을 알 수 있다.
