@@ -13,9 +13,9 @@ Python 3.6.8
 :round_pushpin: [Development Enviroment] <br/>
 Jupyter notebook
 
-:round_pushpin: [Data, API] <br/>
-서울 공공데이터 API
-공공데이터포털
+:round_pushpin: [API] <br/>
+서울 열린 데이터 광장 - 서울시 지하철 호선별 역별 시간대별 승·하차 인원 정보<br/>
+서울 공공데이터 API, 공공데이터포털
 
 :round_pushpin: [Description] <br/>
 Project Overview : Analysis of the Flowing Population by Subway Station in Seoul and Visualized in real map. <br/>
