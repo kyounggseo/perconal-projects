@@ -50,8 +50,7 @@ ex)
 
 <br/>
 하차<br/>
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/a1f9b30d-1a45-4b28-be39-2de6c653c583) <br/>
-<br/>
+![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/ac41e8f6-8766-4f69-860a-6d2dbc0d00a7)<br/>
 평균 하차 인원은 거의 동일하게 강남 > 잠실 > 신림 > 구로디지털단지 > 홍대입구 > 역삼 순으로 많았다.<br/>
 <br/>
 
