@@ -28,6 +28,8 @@ ex)
 ![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/e73f481b-2d0a-4fae-b59a-de2ad2632ca6)  <br/>
 
 :two: 데이터 전처리 - 시간에 따라 데이터 나누기 <br/>
+<br/>
+<br/>
 
 :round_pushpin: result <br/>
 
@@ -41,7 +43,7 @@ ex)
 
 :three: 2호선에서 역별 평균 승하차 인원 데이터 추출하기 => 평균 승하차 인원 수 내림차순으로 막대그래프 출력<br/>
 
-승차<br/>
+- 승차<br/>
 ![image](https://user-images.githubusercontent.com/102573192/223920823-7ed1f037-7b8a-482f-b004-08cae458050b.png)<br/>
 2호선 기준 3월 한 달간 강남 > 잠실 > 신림 > 구로디지털단지 > 홍대입구 > 선릉 순으로 평균 승차 인원이 많았다.<br/>
 <br/>
@@ -51,7 +53,7 @@ ex)
 ![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/cc9c8ddd-128a-467e-a550-f1f1c4b4e3f6)<br/>
 <br/>
 
-하차<br/>
+- 하차<br/>
 ![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/412b8b88-509b-4cbc-84bc-b03de48abcdb)<br/>
 평균 하차 인원은 거의 동일하게 강남 > 잠실 > 신림 > 구로디지털단지 > 홍대입구 > 역삼 순으로 많았다.<br/>
 <br/>
