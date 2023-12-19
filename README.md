@@ -44,14 +44,13 @@ ex)
 2호선 기준 3월 한 달간 강남 > 잠실 > 신림 > 구로디지털단지 > 홍대입구 > 선릉 순으로 평균 승차 인원이 많았다.<br/>
 <br/>
 
-- 승차를 가장 많이 한 강남역<br/>
+- 승차를 가장 많이 한 곳<br/>
 강남역 18시~19시 승차인원이 약 300만 명으로 제일 많았다.<br/>
 ![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/cc9c8ddd-128a-467e-a550-f1f1c4b4e3f6)<br/>
-
 <br/>
+
 하차<br/>
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/91c4cef2-26a2-4a1c-823c-b3f7c1889ff4)
- <br/>
+![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/412b8b88-509b-4cbc-84bc-b03de48abcdb)<br/>
 평균 하차 인원은 거의 동일하게 강남 > 잠실 > 신림 > 구로디지털단지 > 홍대입구 > 역삼 순으로 많았다.<br/>
 <br/>
 
@@ -65,13 +64,12 @@ ex)
 가산디지털단지역에서 08~09시 하차인원이 약 350만 명으로 제일 많았다. <br/>
 많은 직장들이 모여있기 때문에 이러한 수치 값이 나온 것 같다. <br/>
 
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/b6b48d4c-f075-4d4c-a666-136a41aa8827) <br/>
-
 :four: 특정 호선의 혼잡 정도를 지도에 출력<br/>
 ![image](https://user-images.githubusercontent.com/102573192/209819450-26b5c734-3dc3-4bc4-ba0b-ea2a29b33515.png)<br/>
 
 :five: 연도별/시간대별 승객 
 ![image](https://user-images.githubusercontent.com/102573192/223921977-f35476c7-9c0b-434d-861b-956cdedcd657.png) <br/>
 2020년도부터 출근시간대인 오전 6시~오전9시까지 2020년도 전과는 다르게 승객 수가 줄어든 것을 알 수 있다. 이는 2020년도에 확산된 코로나 19의 영향으로 재택근무의 비율이 많았다는 것을 알 수 있다. <br/>
+
 
 
