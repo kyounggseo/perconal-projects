@@ -18,7 +18,7 @@ Jupyter notebook
 
 :round_pushpin: [데이터 수집 및 전처리] <br/>
 - 서울 열린 데이터 광장 - 서울시 지하철 호선별 역별 시간대별 승·하차 인원 정보<br/>
-- 서울 공공데이터 API, 공공데이터포털 <br/>
+- googlemaps 라이브러리 <br/>
 <br/>
 <br/>
 
