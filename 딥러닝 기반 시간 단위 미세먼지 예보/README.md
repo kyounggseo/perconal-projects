@@ -50,7 +50,7 @@
 <br/>
 
 ### 4. 종로 4가 데이터 예측 결과
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/d46a634c-0366-4672-b91f-c541e1e99b1b)
+![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/b1b0b2b7-62b8-4ad5-9aab-d8fb14e0651e)
 
 - PM10 평균 오차(RMSE) = 11.10
 - PM2.5 평균 오차(RMSE) = 8.56
