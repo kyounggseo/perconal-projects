@@ -29,8 +29,7 @@
 ## 2장. 분석결과
 ### 1. 강남역 엔제리너스 데이터 예측 결과
 
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/7e739d8b-1fa6-46f8-b94a-71231f7d4842)
-
+<img src="https://github.com/kyounggseo/perconal-projects/assets/102573192/7e739d8b-1fa6-46f8-b94a-71231f7d4842" width="50%" height="70%"> <br/>
 - PM10 평균 오차(RMSE) = 9.17
 - PM2.5 평균 오차(RMSE) = 6.70
 <br/>
