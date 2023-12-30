@@ -16,6 +16,11 @@ Python 3.6.8
 :round_pushpin: [IDE] <br/>
 Jupyter notebook
 
+:round_pushpin: [전체 조건] <br/>
+ 1. 데이터는 2019 ~ 2022년을 기준으로 수행  <br/>
+ 2. 혼잡도 정도는 하차인원과 비례하다고 가정  <br/>
+ 3. 서울권 내 지하철 가운데 1~8호선으로 한정  <br/>
+     
 :round_pushpin: [데이터 수집 및 전처리] <br/>
 - 서울 열린 데이터 광장 - 서울시 지하철 호선별 역별 시간대별 승·하차 인원 정보<br/>
 - googlemaps 라이브러리 <br/>
