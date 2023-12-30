@@ -21,6 +21,8 @@
 
 ##### 데이터 전처리 
 - '선릉역' 데이터로 train set, 나머지 데이터로 test set 생성
+
+<img src="https://github.com/kyounggseo/perconal-projects/assets/102573192/7e739d8b-1fa6-46f8-b94a-71231f7d4842" width="30%" height="70%"> <br/>
 - 분 -> 시간 단위 평균으로 재구성
 
 #### 분석 모델링
@@ -30,29 +32,25 @@
 
 ## 2장. 분석결과
 ### 1. 강남역 엔제리너스 데이터 예측 결과
-
-<img src="https://github.com/kyounggseo/perconal-projects/assets/102573192/7e739d8b-1fa6-46f8-b94a-71231f7d4842" width="50%" height="70%"> <br/>
+![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/7ade2bc9-ba5e-4b61-8b30-270fb99461a4)
 - PM10 평균 오차(RMSE) = 9.17
 - PM2.5 평균 오차(RMSE) = 6.70
 <br/>
 
 ### 2. 강남역 역삼공원 데이터 예측 결과
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/7ade2bc9-ba5e-4b61-8b30-270fb99461a4)
-
+![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/d2902875-5060-4c1f-ac16-a34c8d689b48)
 - PM10 평균 오차(RMSE) = 9.08
 - PM2.5 평균 오차(RMSE) = 6.30
 <br/>
 
 ### 3. 종로 3가 데이터 예측 결과
-
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/d2902875-5060-4c1f-ac16-a34c8d689b48)
-
+![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/a1655a22-5102-465c-b2ad-ce32f3029011)
 - PM10 평균 오차(RMSE) = 8.65
 - PM2.5 평균 오차(RMSE) = 6.06
 <br/>
 
 ### 4. 종로 4가 데이터 예측 결과
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/a1655a22-5102-465c-b2ad-ce32f3029011)
+![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/d46a634c-0366-4672-b91f-c541e1e99b1b)
 
 - PM10 평균 오차(RMSE) = 11.10
 - PM2.5 평균 오차(RMSE) = 8.56
