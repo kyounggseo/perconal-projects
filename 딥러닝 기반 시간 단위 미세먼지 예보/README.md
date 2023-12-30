@@ -32,40 +32,37 @@
 
 ## 2장. 분석결과
 ### 1. 강남역 엔제리너스 데이터 예측 결과
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/7ade2bc9-ba5e-4b61-8b30-270fb99461a4)
+<img src="https://github.com/kyounggseo/perconal-projects/assets/102573192/7ade2bc9-ba5e-4b61-8b30-270fb99461a4" width="80%" height="70%"> <br/>
 - PM10 평균 오차(RMSE) = 9.17
 - PM2.5 평균 오차(RMSE) = 6.70
 <br/>
 
 ### 2. 강남역 역삼공원 데이터 예측 결과
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/d2902875-5060-4c1f-ac16-a34c8d689b48)
+<img src="https://github.com/kyounggseo/perconal-projects/assets/102573192/d2902875-5060-4c1f-ac16-a34c8d689b48" width="80%" height="70%"> <br/>
 - PM10 평균 오차(RMSE) = 9.08
 - PM2.5 평균 오차(RMSE) = 6.30
 <br/>
 
 ### 3. 종로 3가 데이터 예측 결과
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/a1655a22-5102-465c-b2ad-ce32f3029011)
+<img src="https://github.com/kyounggseo/perconal-projects/assets/102573192/a1655a22-5102-465c-b2ad-ce32f30290114" width="80%" height="70%"> <br/>
 - PM10 평균 오차(RMSE) = 8.65
 - PM2.5 평균 오차(RMSE) = 6.06
 <br/>
 
 ### 4. 종로 4가 데이터 예측 결과
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/b1b0b2b7-62b8-4ad5-9aab-d8fb14e0651e)
-
+<img src="https://github.com/kyounggseo/perconal-projects/assets/102573192/b1b0b2b7-62b8-4ad5-9aab-d8fb14e0651e" width="80%" height="70%"> <br/>
 - PM10 평균 오차(RMSE) = 11.10
 - PM2.5 평균 오차(RMSE) = 8.56
 <br/>
 
 ### 5. 종각역 데이터 예측 결과
-
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/befe2f96-5f6f-4e51-a512-0a19cec1d56a)
+<img src="https://github.com/kyounggseo/perconal-projects/assets/102573192/befe2f96-5f6f-4e51-a512-0a19cec1d56a" width="80%" height="70%"> <br/>
 - PM10 평균 오차(RMSE) = 8.53
 - PM2.5 평균 오차(RMSE) = 6.90
 <br/>
   
 ### 6. 선정릉역 데이터 예측 결과
-
-![image](https://github.com/kyounggseo/perconal-projects/assets/102573192/a327c00e-713b-4336-b24e-5421818b2dfb)
+<img src="https://github.com/kyounggseo/perconal-projects/assets/102573192/a327c00e-713b-4336-b24e-5421818b2dfb" width="80%" height="70%"> <br/>
 - PM10 평균 오차(RMSE) = 8.42
 - PM2.5 평균 오차(RMSE) = 5.31
 <br/>
